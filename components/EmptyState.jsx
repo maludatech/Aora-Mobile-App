@@ -3,7 +3,6 @@ import { images } from "../constants";
 import CustomButton from "./CustomButton";
 import { router } from "expo-router";
 
-// EmptyState component
 const EmptyState = ({ title, subtitle }) => {
   return (
     <View className="justify-center items-center px-4">
