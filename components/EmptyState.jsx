@@ -3,7 +3,7 @@ import { images } from "../constants";
 import CustomButton from "./CustomButton";
 import { router } from "expo-router";
 
-//Empty state components
+//Empty state component
 
 const EmptyState = ({ title, subtitle }) => {
   return (
